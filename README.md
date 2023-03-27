@@ -1,6 +1,7 @@
 # P5080 - Project Pitch Portfolio
 A p5.js music player with vaporwave meme
 
-# How to run (recommendation)
-I use the "Live Server" extension in VSCode to run
-Please change the double back slashes (\\) in sketch.js into forward slashes (/) if you are using Mac
+# How to run
+Use the "Live Server" extension of VSCode to run
+Or you can use other methods if you wish (e.g. python live server)
+Please change the "`\\`"s in sketch.js into "/"s (if you are using Mac)
